@@ -1,2 +1,2 @@
 # mi_primer_repo
-Mi primer repositorio
+Mi primer repositorio de prueba
